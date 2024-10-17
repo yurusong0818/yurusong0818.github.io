@@ -2,11 +2,10 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
+    display_name: "乾鍋（盆菜）"
     github: xiaohang007
     role: faculty
-    image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
+    image: /img/people/盆菜.jpg
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -27,14 +26,14 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "北京烤鸭"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/北京烤鸭.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "四川麻婆豆腐"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/四川麻婆豆腐.jpg
 
 storm:
     display_name: "虚位以待  We need you!"
@@ -50,36 +49,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "1. 酥脆茨菰配慢烤澳洲牛肋骨"
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "2.脆脆鸡"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "3. 慢烤深海银鳕鱼伴秘制陈皮汁"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "4.伴豉油皇西班牙火腿炒意大利面"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "5.京都酱烧银鳕鱼"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "6.泰坦汁煎焗小牛方"
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: "7.蕃香汁煎阿根廷红虾"
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "8.羊肚菌紫壶鲜配香草柠檬鳕鱼"
     role: collab
     
 
